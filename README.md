@@ -1,6 +1,6 @@
 # VikingLinks机场官网地址
 
-最新地址：[viking-links.com](https://viking-links.com/#/login?code=vFmtROhb)
+最新地址：[viking-links.com](https://feeds.viking-links.tech/#/login?code=vFmtROhb)
 
 ## VikingLinks介绍
 
@@ -12,7 +12,7 @@ VikingLinks，SS协议机场。IEPL三线+IPLC三线+莞港专线。
 
 ## VikingLinks优惠码
 
-75折优惠,折扣码GrandOpening75
+欢度国庆，预祝各位中秋快乐，阖家团圆，特此奉上年度优惠码：National Day&Mid-Autumn Festival
 
 ## VikingLinks价格
 
