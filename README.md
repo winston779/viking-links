@@ -1,6 +1,6 @@
 # VikingLinks机场官网地址
 
-最新地址：[viking-links.com](https://feeds.viking-links.tech/#/login?code=vFmtROhb)
+最新地址：[viking-links.com](https://feeds.viking-links.tech/#/register?code=vFmtROhb)
 
 ## VikingLinks介绍
 
