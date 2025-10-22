@@ -14,6 +14,8 @@ VikingLinks，SS协议机场。IEPL三线+IPLC三线+莞港专线。
 
 欢度国庆，预祝各位中秋快乐，阖家团圆，特此奉上年度优惠码：National Day&Mid-Autumn Festival
 
+畅联全球，优惠码：WELCOME
+
 ## VikingLinks价格
 
 初级套餐
